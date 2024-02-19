@@ -33,6 +33,12 @@ Welcome to Abdul Mehad's Portfolio repository! This repository contains the sour
 
 - **Form Pop-up:** A pop-up that appears upon successful submission of a recommendation, providing feedback to the user.
 
+## Technologies Used
+
+- **HTML5:** Markup language for structuring the content of the web pages.
+- **CSS3:** Stylesheet language for designing and formatting the visual presentation of the portfolio.
+- **JavaScript:** Programming language for adding interactivity and dynamic behavior to the portfolio.
+
 ## How to Use
 
 1. Clone the repository to your local machine.
@@ -45,6 +51,15 @@ Welcome to Abdul Mehad's Portfolio repository! This repository contains the sour
 ## Contributing
 
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Your contributions are welcome!
+
+## CSS and JavaScript Properties
+
+- **CSS Flexbox:** Used in various sections like "About Me" and "Skills" for creating flexible layouts.
+- **CSS Animations:** Applied to the "introduction" class in the "About Me" section for a smooth introductory animation.
+- **CSS Box Shadow:** Used for adding subtle shadows to elements, providing depth and separation.
+- **JavaScript DOM Manipulation:** The `addRecommendation` function dynamically adds new recommendation elements to the page without a page refresh.
+- **JavaScript Event Handling:** The `onclick` attribute in the "Submit" button triggers the `addRecommendation` function.
+- **JavaScript Popup Display:** The `showPopup` function controls the visibility of the pop-up for recommendation submission feedback.
 
 ## Credits
 
